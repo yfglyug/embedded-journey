@@ -1,0 +1,5 @@
+#pragma once
+
+
+int twice(int x);
+
