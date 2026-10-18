@@ -1,6 +1,4 @@
-#ifndef STUDENT_H     
-#define STUDENT_H
-
+#pragma once;
 #include <string>
 
 class Student {
@@ -11,4 +9,4 @@ private:
     std::string name;
 };
 
-#endif
+
